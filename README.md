@@ -6,9 +6,7 @@ I am Aditya Jambhale
 - I am an Innovative Mechatronics Engineer 🚀 with a passion for integrating cutting-edge Artificial Intelligence solutions :robot:
 - I am always Seeking opportunities to apply my academic knowledge and further develop my skills through challenging projects and real-world experience :school:
 - I am Determined to make a positive impact in the field and drive innovation through the integration of Mechatronics and AI :chart_with_upwards_trend:
-- Find me elsewhere online:
-  - [Instagram](https://www.instagram.com/iamadityajams/?igshid=YmMyMTA2M2Y%3D)
-  - [Twitter](https://twitter.com/AdityaJambhale4?t=wBVjO7FsEatpGnB_5sALDQ&s=09)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
