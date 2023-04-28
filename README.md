@@ -4,11 +4,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+
+![woah-yay](https://user-images.githubusercontent.com/92617405/235195655-04ae94de-6443-450e-9d80-06afb5cf38b5.gif)
+
+
 I am Aditya Jambhale
 - I love programming :computer: and solving puzzles :jigsaw:
 - I am an Innovative Mechatronics Engineer 🚀 with a passion for integrating cutting-edge Artificial Intelligence solutions :robot:
 - I am always Seeking opportunities to apply my academic knowledge and further develop my skills through challenging projects and real-world experience :school:
 - I am Determined to make a positive impact in the field and drive innovation through the integration of Mechatronics and AI :chart_with_upwards_trend:
+
+
+<img align="right" alt="Coding" width="300" 
+src="https://user-images.githubusercontent.com/92617405/235194725-e8601467-b203-4148-86c5-57b9bec1760a.gif">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +31,4 @@ I am Aditya Jambhale
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adijams01&show_icons=true&locale=en&layout=compact" alt="adijams01" /></
+![igus-do-brasil-igus](https://user-images.githubusercontent.com/92617405/235196052-99f126db-abc2-44a2-a3f6-4c1d7d54f9db.gif)
