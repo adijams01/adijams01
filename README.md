@@ -16,7 +16,7 @@ I am Aditya Jambhale
 
 
 <img align="right" alt="Coding" width="300" 
-src="https://user-images.githubusercontent.com/92617405/235194725-e8601467-b203-4148-86c5-57b9bec1760a.gif">
+src="https://user-images.githubusercontent.com/92617405/235197519-e44a8c9f-271f-44fd-ba52-649e2aaab8d2.gif">
 
 
 <h3 align="left">Connect with me:</h3>
