@@ -14,7 +14,7 @@ I am Aditya Jambhale
 - I am always Seeking opportunities to apply my academic knowledge and further develop my skills through challenging projects and real-world experience :school:
 - I am Determined to make a positive impact in the field and drive innovation through the integration of Mechatronics and AI :chart_with_upwards_trend:
 
-
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/92617405/235197519-e44a8c9f-271f-44fd-ba52-649e2aaab8d2.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
