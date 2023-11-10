@@ -37,11 +37,6 @@ I am Aditya Jambhale
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"> </p>
 
-<h3 align="left">Github Trophies</h3>
-<p align="left">
-  
-![](https://github-profile-trophy.vercel.app/?username=adijams01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 📊 GitHub Stats:
  
 ![](https://github-readme-stats.vercel.app/api?username=adijams01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
