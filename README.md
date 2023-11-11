@@ -35,12 +35,7 @@ I am Aditya Jambhale
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"> </p>
-
-
-#  GitHub Stats:
  
-![](https://github-readme-stats.vercel.app/api?username=adijams01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=adijams01&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adijams01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/92617405/235197519-e44a8c9f-271f-44fd-ba52-649e2aaab8d2.gif">
